@@ -10,4 +10,5 @@ function countingSort(arr) {
         result[arr[i]] += 1
     }
 
+    return result
 }
